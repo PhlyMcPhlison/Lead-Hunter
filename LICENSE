@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 PhlyMcPhlison
+Copyright (c) 2024 Alert Lead Hunter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -16,6 +16,47 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+LIABILTY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+THIRD-PARTY LICENSES
+
+This software includes third-party libraries and services:
+
+1. React - MIT License
+2. Electron - MIT License
+3. Node.js - MIT License
+4. Python - PSF License
+5. Tailwind CSS - MIT License
+6. Radix UI - MIT License
+
+API Services (when used):
+- OpenWeatherMap API - Subject to OpenWeatherMap Terms of Service
+- WeatherAPI.com - Subject to WeatherAPI Terms of Service
+- Google Maps API - Subject to Google Cloud Terms of Service
+- SendGrid API - Subject to SendGrid Terms of Service
+- Twilio API - Subject to Twilio Terms of Service
+- National Weather Service API - Public Domain (US Government)
+
+Free and Open Source Alternatives:
+- Nominatim (OpenStreetMap) - ODbL License
+- US Census Geocoding API - Public Domain
+- Overpass API (OpenStreetMap) - ODbL License
+
+DISCLAIMER
+
+This software is provided for educational and business purposes. Users are
+responsible for:
+- Obtaining proper API keys and licenses
+- Complying with all applicable terms of service
+- Ensuring compliance with local laws and regulations
+- Proper use of weather alert data
+- Responsible marketing and lead generation practices
+
+The authors are not responsible for:
+- Misuse of the software
+- API costs or charges
+- Data accuracy or reliability
+- Business outcomes or results
+- Compliance with marketing regulations
